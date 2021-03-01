@@ -1,7 +1,7 @@
 import React from 'react';
 import "./Player.css"
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
-import { faCoffee, faPlusSquare } from '@fortawesome/free-solid-svg-icons'
+import { faPlusSquare } from '@fortawesome/free-solid-svg-icons'
 
 const Player = (props) => {
     const { name, salary, image } = props.player;

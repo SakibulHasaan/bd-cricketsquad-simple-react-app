@@ -8,6 +8,11 @@
     display: flex;
   }
   
+  .btn:focus {
+    outline: none;
+    box-shadow: none;
+  }
+  
   .player-parent {
     display: flex;
   }
