@@ -1,6 +1,6 @@
 import './App.css';
 import Header from '../src/components/Header/Header'
-import ShowPlayerInformation from './components/ShowPlayerInformation';
+import ShowPlayerInformation from './components/ShowPlayerInformation/ShowPlayerInformation';
 
 function App() {
   return (
