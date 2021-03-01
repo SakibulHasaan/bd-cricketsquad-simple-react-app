@@ -31,15 +31,7 @@ const ShowPlayerInformation = () => {
                 <PlayerCart cart={cart}></PlayerCart>
             </div>
         </div>
-
-
-
-
-
-
     );
-
-
 };
 
 export default ShowPlayerInformation;

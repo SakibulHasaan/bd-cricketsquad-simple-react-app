@@ -13,7 +13,7 @@ const Player = (props) => {
                 </div>
                 <div className="player-container">
                     <h4><b>{name}</b></h4>
-                    <p>Nation Team Player</p>
+                    <p>National Team Player</p>
                     <h6>Salary {salary}৳</h6>
                     <button className="btn btn-info" onClick={() => props.addToCartHandle(props.player)}>  <FontAwesomeIcon icon={faPlusSquare}/> Add Player </button>
                 </div>
